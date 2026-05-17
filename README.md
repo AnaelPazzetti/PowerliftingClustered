@@ -1,3 +1,5 @@
+#Work still in the very beginning 
+
 ## I'm a powerlifting atlhete and always wondered about the distribution of lifters based on it's lifting level (begginer/advanced)
 
 ### So this is just a simple clusterization analysis + RandomForestClassifier (to classify myself and friends based on world lifters)   ### For now it classifies based on a percentil (0-99) top lifters
